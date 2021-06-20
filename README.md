@@ -1,3 +1,0 @@
-# excuse
-
-javascript exercise
